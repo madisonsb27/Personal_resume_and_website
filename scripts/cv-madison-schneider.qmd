@@ -1,0 +1,69 @@
+---
+title: "lab_1_exercise_2"
+author: "Maddie Schneider"
+format: 
+  html:
+    theme: "cerulean"
+    mainfont: "Georgia"
+    editor: visual
+---
+
+# Madison Schneider
+
+***madison.a.schneider\@gmail.com – 858-776-4097***
+
+#### www.linkedin.com/in/madison-ann-schneider
+
+profile-photo: "PATH_TO_PHOTO/photo.jpg"
+
+------------------------------------------------------------------------
+
+```{=html}
+<style>
+h1, h2, h3 { text-align: center;}
+</style>
+```
+
+<br>
+
+## Education
+
+**Saint Louis University** [**2016-2020**]{style="float:right"}
+
+- *B.S. Marketing*
+
+**Cornell University** [**2026**]{style="float:right"}
+
+- *MPS Natural Resources and the Environment*
+
+------------------------------------------------------------------------
+
+<br>
+
+## Employment
+
+**Army Natural Resources Program Oahu** [**March 2025 - July 2025**]{style="float:right"}
+
+- Field Technician
+
+**United States Army** [**July 2020 - March 2025**]{style="float:right"}
+
+- **Operations Supervisor** [**April 2021-March 2022**]{style="float:right"}
+
+  - Increased team efficiency by 20% through adequate supervision of training and professional development initiatives.
+  - Achieved 100% operational readiness of vehicles by optimizing maintenance procedures and operational protocols.
+  - Implemented innovative virtual training programs during pandemic restrictions, delivering over 20 sessions that ensured continuous team development.
+  - Coordinated logistics and safety measures for a 1,260-kilometer transportation operation, resulting in zero safety incidents and timely project completion.
+  - Reduced workplace incidents by 25% by implementing improved safety protocols and ensuring compliance with organizational safety standards.
+
+- **Operations Manager**
+
+  - **March 2022-December 2022**
+
+- **Engineering Operations Manager**
+
+  - **December 2022 - March 2025**
+
+<br>
+
+## Volunteer Experience

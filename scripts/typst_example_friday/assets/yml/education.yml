@@ -1,0 +1,12 @@
+master:
+  title: Masters of Professional Studies (MPS) in Natural Resources and the Environment
+  location: Ithaca, New York
+  date: 2026
+  description: Cornell University
+    - "GPA: 4.1"
+bachelor:
+  title: Bachelor of Science in Marketing
+  location: St. Louis, Missouri
+  date: 2016-2020
+  description: Saint Louis University 
+  GPA: 3.7
