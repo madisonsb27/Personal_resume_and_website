@@ -3,3 +3,5 @@
 .RData
 .Ruserdata
 .CV_master_copy.pdf
+/.quarto/
+**/*.quarto_ipynb
